@@ -16,3 +16,7 @@ a.btn.btn-primary.btn-block.content-group:focus {
     border-color:   #e50000 !important;
     color: #fff !important;
 }
+
+btn-primary {
+    background-color:red!important
+}
