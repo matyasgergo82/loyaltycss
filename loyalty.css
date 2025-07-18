@@ -1,18 +1,10 @@
 
-a.btn.btn-primary.btn-block.content-group {
-    background-color: #ff0000 !important;   /* solid red */
-    border-color:   #ff0000 !important;     /* keep border in sync */
-    color: #fff !important;                 /* readable text */
-}
-
-
+<style>
+a.btn.btn-primary.btn-block.content-group,
 a.btn.btn-primary.btn-block.content-group:hover,
 a.btn.btn-primary.btn-block.content-group:focus {
-    background-color: #e50000 !important;   /* a touch darker on hover */
-    border-color:   #e50000 !important;
-    color: #fff !important;
+    background:#ff0000!important;
+    border-color:#ff0000!important;
+    color:#fff!important;
 }
-
-btn-primary {
-    background-color:red!important
-}
+</style>
