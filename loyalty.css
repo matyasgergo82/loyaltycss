@@ -7,4 +7,8 @@ a.btn.btn-primary.btn-block.content-group:focus {
     border-color:#ff0000!important;
     color:#fff!important;
 }
+btn-primary {
+    background-color:#ff0000!important;
+    background:#ff0000;
+}
 </style>
